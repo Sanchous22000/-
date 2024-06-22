@@ -69,3 +69,16 @@ transition: 2s;
     text-decoration: none;
     color: #162955;
 }
+
+article a{
+    text-decoration: none;
+    background-color: #4F628E; 
+    padding: 5px;
+    color: #887CAF;
+}
+
+article a:hover{
+    background-color: #887CAF;
+    color: #261758;
+    transition: 1488ms;
+}
